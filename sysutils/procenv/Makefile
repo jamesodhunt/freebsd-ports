@@ -1,4 +1,4 @@
-# Created by: James Hunt <james.hunt@ubuntu.com>
+# Created by: James Hunt <jamesodhunt@ubuntu.com>
 # $FreeBSD$
 
 PORTNAME=	procenv
